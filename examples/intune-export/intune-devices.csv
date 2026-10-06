@@ -1,0 +1,4 @@
+serial_number,device_name,primary_user,last_check_in_utc,os_version,ownership
+SYNTHETIC-SERIAL-0001,EXAMPLE-MAC-001,alex@example.invalid,2026-09-20T10:00:00Z,15.6,corporate
+SYNTHETIC-SERIAL-0002,EXAMPLE-MAC-002,jordan@example.invalid,2026-09-20T10:05:00Z,15.5,corporate
+SYNTHETIC-SERIAL-0003,EXAMPLE-MAC-003,sam@example.invalid,2026-08-01T08:30:00Z,14.7,corporate

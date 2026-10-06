@@ -1,0 +1,2 @@
+wave_id,asset_reference,serial_number,owner,source_mdm,target_prestage,abm_assignment_verified,backup_confirmed,user_notified,cutover_window_utc,acceptance_complete,exception_owner,status
+WAVE-EXAMPLE-A,ASSET-EXAMPLE-001,SYNTHETIC-SERIAL-0001,Example Endpoint Ops,Intune,EXAMPLE-LAB-PRESTAGE,yes,yes,yes,2026-10-20T10:00:00Z,no,Example Service Desk,planned

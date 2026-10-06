@@ -1,0 +1,2 @@
+control_id,source_product,source_object,control_intent,target_product,target_object,disposition,validation_evidence,owner,exception_expiry
+CTRL-EXAMPLE-001,Intune,Example macOS compliance policy,Require minimum supported OS,Jamf Pro,Example smart group and compliance group,recreate,Jamf inventory plus test compliance evaluation,Example Endpoint Ops,2026-12-31

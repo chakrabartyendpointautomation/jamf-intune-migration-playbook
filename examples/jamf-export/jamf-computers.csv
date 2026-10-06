@@ -1,0 +1,4 @@
+serial_number,computer_name,assigned_user,last_inventory_utc,os_version,enrollment_method
+SYNTHETIC-SERIAL-0001,EXAMPLE-MAC-001,alex@example.invalid,2026-09-21T11:00:00Z,15.6,Automated Device Enrollment
+SYNTHETIC-SERIAL-0003,EXAMPLE-MAC-003,sam@example.invalid,2026-09-22T09:15:00Z,14.7,Automated Device Enrollment
+SYNTHETIC-SERIAL-0004,EXAMPLE-MAC-004,casey@example.invalid,2026-09-22T12:00:00Z,15.6,Automated Device Enrollment

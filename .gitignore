@@ -1,0 +1,6 @@
+# Local exports and reconciliation reports can contain device identifiers
+*.csv.export
+reconciliation.json
+*-report.json
+.DS_Store
+__pycache__/
